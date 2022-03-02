@@ -1,0 +1,16 @@
+h3
+{
+color: blue;
+background-color:rgb(149, 184, 248);
+
+}
+span{
+
+
+    color:blue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
