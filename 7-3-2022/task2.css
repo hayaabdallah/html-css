@@ -1,0 +1,105 @@
+#container
+    {
+
+    background-color: beige;
+    border: 5px solid rgb(224, 208, 112);
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+
+    }
+
+    .a
+    {
+
+        background-color: green;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+      
+    }
+    .b
+    {
+
+        background-color: yellow;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .c
+    {
+
+        background-color: magenta;
+        color: white;
+        width:25%;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .d
+    {
+
+        background-color:grey;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .e
+    {
+
+        background-color:crimson;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .f
+    {
+
+        background-color: blue;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .g
+    {
+
+        background-color:orange;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .h
+    {
+
+        background-color: pink;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .i
+    {
+
+        background-color: red;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
+    .j
+    {
+
+        background-color:black;
+        color: white;
+        width:25%;
+        text-align: center;
+        font-size: 50px;
+    }
